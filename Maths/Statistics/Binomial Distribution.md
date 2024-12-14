@@ -42,3 +42,9 @@ $$
 $$
 f(x) = \frac{n!}{\left(n-x\right)!x!}\cdot p^{x}\cdot\left(1-p\right)^{\left(n-x\right)}
 $$
+
+
+
+
+
+
